@@ -1,0 +1,22 @@
+{
+  "name": "@gk-common-cli-dev/core",
+  "version": "1.0.0",
+  "description": "gk-common-cli-dev core",
+  "author": "victor <victor.chen@geekbang.org>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"run core\" !"
+  },
+  "dependencies": {
+    "@gk-common-cli-dev/utils": "^1.0.0"
+  }
+}

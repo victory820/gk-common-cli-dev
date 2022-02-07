@@ -1,0 +1,20 @@
+{
+  "name": "@gk-common-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "gk-common-cli-dev utils",
+  "author": "victor <victor.chen@geekbang.org>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"run utils\" !"
+  },
+  "dependencies": {}
+}
