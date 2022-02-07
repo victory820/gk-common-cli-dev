@@ -1,6 +1,6 @@
 {
   "name": "@gk-common-cli-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gk-common-cli-dev utils",
   "author": "victor <victor.chen@geekbang.org>",
   "homepage": "",
@@ -16,7 +16,6 @@
   "scripts": {
     "test": "echo \"run utils\" !"
   },
-  "dependencies": {},
   "publishConfig": {
     "access": "public"
   }

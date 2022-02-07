@@ -1,6 +1,6 @@
 {
   "name": "@gk-common-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gk-common-cli-dev core",
   "author": "victor <victor.chen@geekbang.org>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"run core\" !"
   },
   "dependencies": {
-    "@gk-common-cli-dev/utils": "^1.0.0"
+    "@gk-common-cli-dev/utils": "^1.0.1"
   },
   "publishConfig": {
     "access": "public"
